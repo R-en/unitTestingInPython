@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52b38d62-1b4d-49c5-9e88-fccd15b7d8ba" name="Default" comment="" />
+    <list default="true" id="52b38d62-1b4d-49c5-9e88-fccd15b7d8ba" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +20,8 @@
           <file leaf-file-name="FizzBuzzTest.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="76">
-                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                <state relative-caret-position="24">
+                  <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
                 </state>
               </provider>
             </entry>
@@ -46,6 +50,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -60,12 +67,12 @@
     <option name="width" value="1935" />
     <option name="height" value="1029" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -88,10 +95,12 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Unit Test">
     <configuration name="FizzBuzzTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Ex_Files_Unit_Testing_Dev_Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,6 +133,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Unit Test" type="tests" factoryName="py.test">
+      <module name="Ex_Files_Unit_Testing_Dev_Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ren\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unit Test" />
+      <item itemvalue="Python.FizzBuzzTest" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.FizzBuzzTest" />
@@ -143,16 +170,48 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="Unit_Test - 2018.09.25 at 21h 55m 28s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 21h 56m 39s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 21h 58m 09s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 21h 59m 27s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 22h 00m 40s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 22h 01m 26s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 22h 02m 26s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 22h 05m 24s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 22h 06m 31s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unit_Test - 2018.09.25 at 22h 08m 16s.xml">
+      <configuration name="Unit Test" configurationId="tests" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49489796" visible="true" weight="0.1576893" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4931973" visible="true" weight="0.1576893" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
-      <window_info id="Structure" order="1" sideWeight="0.50510204" side_tool="true" visible="true" weight="0.1576893" />
+      <window_info id="Structure" order="1" sideWeight="0.50680274" side_tool="true" visible="true" weight="0.1576893" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -169,6 +228,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -207,8 +280,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="24">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
         </state>
       </provider>
     </entry>
