@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52b38d62-1b4d-49c5-9e88-fccd15b7d8ba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise Files/pytest/test_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Files/pytest/test_fixture2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Assignments/Assignments.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/FindBuzz/.cache/v/cache/lastfailed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Quizzes/Chapter 2/Chapter 2 Quiz.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/Quizzes/Chapter 6/Chapter 6 Quiz.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/code_samples.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/pytest/test_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Files/pytest/test_fixture2.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,22 +24,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="test_fixture.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py">
+      <file leaf-file-name="test_checkout.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_checkout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="21" selection-start-line="21" selection-end-line="28" selection-end-column="15" />
+            <state relative-caret-position="276">
+              <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test_fixture2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture2.py">
+      <file leaf-file-name="Checkout.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="152">
+              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_cases" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_cases">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -54,6 +70,10 @@
         <option value="$PROJECT_DIR$/Exercise Files/pytest/test_file.py" />
         <option value="$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py" />
         <option value="$PROJECT_DIR$/Exercise Files/pytest/test_fixture2.py" />
+        <option value="$PROJECT_DIR$/Exercise Files/supermarket/test_cases" />
+        <option value="$PROJECT_DIR$/Exercise Files/supermarket/test_checkout.py" />
+        <option value="$PROJECT_DIR$/Exercise_Files/supermarket/test_checkout.py" />
+        <option value="$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py" />
       </list>
     </option>
   </component>
@@ -79,13 +99,13 @@
             <path>
               <item name="Ex_Files_Unit_Testing_Dev_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ex_Files_Unit_Testing_Dev_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ex_Files_Unit_Testing_Dev_Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ex_Files_Unit_Testing_Dev_Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Files" type="462c0819:PsiDirectoryNode" />
-              <item name="pytest" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise_Files" type="462c0819:PsiDirectoryNode" />
+              <item name="supermarket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -95,7 +115,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RunDashboard">
@@ -140,7 +160,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Exercise_Files/supermarket&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
@@ -167,50 +187,50 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unit_Test - 2018.09.25 at 21h 56m 39s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 14m 08s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 21h 58m 09s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 24m 07s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 21h 59m 27s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 24m 26s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 22h 00m 40s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 31m 46s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 22h 01m 26s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 34m 21s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 22h 02m 26s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 37m 09s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 22h 05m 24s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 42m 03s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 22h 06m 31s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 57m 16s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.25 at 22h 08m 16s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 57m 33s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unit_Test - 2018.09.27 at 14h 17m 47s.xml">
+    <history-entry file="Unit_Test - 2018.09.28 at 14h 57m 42s.xml">
       <configuration name="Unit Test" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48372093" visible="true" weight="0.16057234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.62739724" visible="true" weight="0.16057234" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.66902655" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
-      <window_info id="Structure" order="1" sideWeight="0.51627904" side_tool="true" visible="true" weight="0.16057234" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.61946905" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="1" sideWeight="0.37260273" side_tool="true" visible="true" weight="0.16057234" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3539823" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -224,104 +244,109 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="266">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        <state relative-caret-position="57">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="57">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="38">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture2.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases" />
     <entry file="file://$PROJECT_DIR$/Exercise Files/code_samples/code_samples/fizzbuzz_kata/FizzBuzzTest.py" />
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py">
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/FizzBuzzTest.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_file.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture2.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/supermarket/test_checkout.py" />
+    <entry file="file://$PROJECT_DIR$/Exercise Files/supermarket/test_cases" />
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="37" selection-start-line="37" selection-end-line="37" selection-end-column="33" />
+        <state relative-caret-position="276">
+          <caret line="36" column="27" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/FindBuzz/UseCases">
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/Checkout.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="152">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_file.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="21" selection-start-line="21" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Files/pytest/test_fixture2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Exercise_Files/supermarket/test_cases">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
