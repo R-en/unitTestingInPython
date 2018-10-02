@@ -5,5 +5,5 @@ This project covers Unit Testing in Python (https://www.lynda.com/Python-tutoria
 <li>Testing with Pytest</li>
 <li>Testing double</li>
 
-Ren
-Date 10/1/2018
+<br>Ren
+<br>Date 10/1/2018
